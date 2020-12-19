@@ -5,8 +5,8 @@
 - 💜 Kind people are my kind of people
 - 🔭 I’m currently working on my **Portfolio ;)**
 - 🌱 I’m currently learning **React.js**
-- 👯 I’m looking to **learn and contribute**
 - 💬 Ask me about **Sustainability, Philosophy, Economics, Politics, Contemporary Dance, Yoga, TV Shows, Nature.**
+- 👯 After an opportunity to **improve and contribute**
 - ⚡ Fun fact: The first message sent over the internet was **"LOG"**. **"LOGIN"** was the original intended message but the entire system crashed. This was done at **MIT.**
 
 ### *I am looking to collaborate within a team on a nice project.*
