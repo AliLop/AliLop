@@ -9,7 +9,7 @@
 - 💬 Ask me about **Sustainability, Philosophy, Economics, Politics, Contemporary Dance, Yoga, TV Shows, Nature.**
 - ⚡ Fun fact: The first message sent over the internet was **"LOG"**. **"LOGIN"** was the original intended message but the entire system crashed. This was done at **MIT.**
 
-### *I am looking to collaborate as a team player for a nice project.*
+### *I am looking to collaborate within a team on a nice project.*
 
 ## Languages and Tools 👩‍💻
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
