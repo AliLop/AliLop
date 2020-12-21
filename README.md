@@ -1,5 +1,5 @@
-👋 <h1 align="center"> Hey there, I'm Alicia!</h1> 👩‍💻
-<h3 align="center">🚀 Spanish Junior Front End Developer | MERN Stack ♥ </h3>
+ <h1 align="center">👋 Hey there, I'm Alicia! 👩‍💻</h1> 
+<h3 align="center"> 🚀 Spanish Junior Front End Developer | MERN Stack ♥ </h3>
 
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my **Portfolio ;)** <br/>
