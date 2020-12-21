@@ -3,13 +3,13 @@
 
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my **Portfolio ;)** <br/>
- 🌱 I’m currently learning **React.js** <br/>
  💬 Ask me about **Sustainability, Philosophy, Economics, Politics, Contemporary Dance, Yoga, TV Shows, Nature.** <br/>
+ 🌱 I’m currently learning **React.js** <br/>
  👯 After an opportunity to **improve and contribute** <br/>
  ⚡ Fun fact: The first message sent over the internet was **"LOG"**. <br/>
- **"LOGIN"** was the original intended message but the entire system crashed. This was done at **MIT.** <br/>
+ **"LOGIN"** was the original intended message but the entire system crashed!** <br/>
 
-<h3 align="center"> *I am looking to collaborate within a team on a nice project.* </h3>
+<h3 align="center">I am looking to collaborate within a team on a nice project.</h3>
 
 ## Languages and Tools 👩‍💻
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
