@@ -1,6 +1,8 @@
  <h1 align="center">Hey there, I'm Alicia!</h1> 
 <h3 align="center"> 🚀 Spanish junior Front end Developer in Lisbon ♥ </h3>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my **Portfolio ;)** <br/>
  👯 After an opportunity to **improve and contribute** <br/>
