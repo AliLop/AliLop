@@ -1,15 +1,14 @@
  <h1 align="center">Hey there, I'm Alicia!</h1> 
-<h3 align="center"> 🚀 Spanish Junior Front End Developer | MERN Stack ♥ </h3>
+<h3 align="center"> 🚀 Spanish junior Front end Developer in Lisbon ♥ </h3>
 
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my **Portfolio ;)** <br/>
- 💬 Ask me about **Sustainability, Philosophy, Yoga, Economics, Dance, Politics, TV Shows or Nature.** <br/>
- 🌱 I’m currently learning **React.js** <br/>
  👯 After an opportunity to **improve and contribute** <br/>
+ 🌱 I’m currently learning **TypeScript** <br/>
  ⚡ Fun fact: The first message sent over the internet was **"LOG"**. <br/>
  (**"LOGIN"** was the original intended message but the entire system crashed!) <br/>
 
-<h3 align="center">I am looking to collaborate within a team on a nice project.⭐️</h3>
+<h3 align="center">I am looking to collaborate within a team on a nice project.</h3>
 
  ## Languages and Tools <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
