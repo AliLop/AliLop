@@ -4,7 +4,7 @@
 <img align="right" alt="GIF"  width="400px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my Portfolio ;) <br/>
- 👯 After an opportunity to improve and contribute <br/>
+ 👯 After an opportunity to improve and contribute with a team<br/>
  🌱 I’m currently learning TypeScript <br/>
  ⚡ Fun fact: The first message sent over the internet was "LOG". <br/>
  ("LOGIN" was the original intended message but the entire system crashed!) <br/>
@@ -14,8 +14,6 @@
     <a href="https://www.linkedin.com/in/aliciahl/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" width="30"></a>
     <a href="mailto:alicia.hl87@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30"></a>
   </p>
-
-<h4>I'm looking to collaborate within a team on a nice project!</h4>
 
  ## Languages and Tools <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
