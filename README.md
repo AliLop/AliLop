@@ -3,7 +3,6 @@
 <br/>
 <img align="right" alt="GIF"  width="400px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 <br/>
-<br/>
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my **Portfolio ;)** <br/>
  👯 After an opportunity to **improve and contribute** <br/>
