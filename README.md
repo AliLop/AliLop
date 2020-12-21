@@ -9,7 +9,7 @@
  ⚡ Fun fact: The first message sent over the internet was "LOG" <br/>
  "LOGIN" was the original intended message but the entire system crashed! <br/>
 
-<h3> Let's connect!</h3> <br/>
+<h3> Let's connect!</h3>
   <p>
     <a href="https://www.linkedin.com/in/aliciahl/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" width="30"></a>
     <a href="mailto:alicia.hl87@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30"></a>
