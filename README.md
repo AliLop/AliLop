@@ -2,7 +2,6 @@
 <h3 align="center"> 🚀 Spanish junior Front end Developer in Lisbon ♥ </h3>
 <br/>
 <img align="right" alt="GIF"  width="400px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-<br/>
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my **Portfolio ;)** <br/>
  👯 After an opportunity to **improve and contribute** <br/>
@@ -27,4 +26,4 @@
 ![Node.js](http://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=Nodejs&logoColor=green)
 ![MondoDB](http://img.shields.io/badge/-MondoDB-000000?style=for-the-badge&logo=MondoDB&logoColor=blue)
 
-<h3 align="center">I am looking to collaborate within a team on a nice project.</h3>
+<h3>I am looking to collaborate within a team on a nice project.</h3>
