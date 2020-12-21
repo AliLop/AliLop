@@ -3,11 +3,11 @@
 
 ## More About Me 👩:
  💜 Kind people are my kind of people <br/>
- 🔭 I’m currently working on my **Portfolio ;)**
- 🌱 I’m currently learning **React.js**
- 💬 Ask me about **Sustainability, Philosophy, Economics, Politics, Contemporary Dance, Yoga, TV Shows, Nature.**
- 👯 After an opportunity to **improve and contribute**
- ⚡ Fun fact: The first message sent over the internet was **"LOG"**. **"LOGIN"** was the original intended message but the entire system crashed. This was done at **MIT.**
+ 🔭 I’m currently working on my **Portfolio ;)** <br/>
+ 🌱 I’m currently learning **React.js** <br/>
+ 💬 Ask me about **Sustainability, Philosophy, Economics, Politics, Contemporary Dance, Yoga, TV Shows, Nature.** <br/>
+ 👯 After an opportunity to **improve and contribute** <br/>
+ ⚡ Fun fact: The first message sent over the internet was **"LOG"**. **"LOGIN"** was the original intended message but the entire system crashed. This was done at **MIT.** <br/>
 
 ### *I am looking to collaborate within a team on a nice project.*
 
