@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Spanish Junior Front End Developer | MERN Stack ♥ </h3>
 
 ## More About Me 👩:
- 💜 Kind people are my kind of people
+ 💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my **Portfolio ;)**
  🌱 I’m currently learning **React.js**
  💬 Ask me about **Sustainability, Philosophy, Economics, Politics, Contemporary Dance, Yoga, TV Shows, Nature.**
