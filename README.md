@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Alicia!</h1> 
 <h3 align="center"> 🚀 Spanish junior Front end Developer in Lisbon ♥ </h3>
 <br/>
-<img align="right" alt="GIF"  width="380px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF"  width="360px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
  💜 Kind people are my kind of people <br/>
  🔭 I’m currently working on my Portfolio ;) <br/>
  👯 After an opportunity to improve and contribute with a team<br/>
@@ -9,7 +9,7 @@
  ⚡ Fun fact: The first message sent over the internet was "LOG" <br/>
  "LOGIN" was the original intended message but the entire system crashed! <br/>
 
-<h3> Let's connect </h3> <br/>
+<h3> Let's connect!</h3> <br/>
   <p>
     <a href="https://www.linkedin.com/in/aliciahl/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" width="30"></a>
     <a href="mailto:alicia.hl87@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30"></a>
