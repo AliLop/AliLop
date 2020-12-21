@@ -15,7 +15,7 @@
     <a href="mailto:alicia.hl87@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30"></a>
   </p>
 
-<h3>I am looking to collaborate within a team on a nice project.</h3>
+<h4>I'm looking to collaborate within a team on a nice project!</h4>
 
  ## Languages and Tools <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
