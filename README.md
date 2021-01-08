@@ -24,7 +24,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=blue)
 ![Node.js](http://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=Nodejs&logoColor=green)
-![MondoDB](http://img.shields.io/badge/-MondoDB-000000?style=for-the-badge&logo=MondoDB&logoColor=blue)
+![MongoDB](http://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=blue)
 
   ---
 ⭐️ From [AliLop](https://github.com/alilop)
