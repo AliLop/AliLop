@@ -3,9 +3,8 @@
 <br/>
 <img align="right" alt="GIF"  width="360px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
  💜 Kind people are my kind of people <br/>
- 🔭 I’m currently working on my TypesScript / JS and VUE! ;) <br/>
  👯 After an opportunity to improve and contribute with a team<br/>
- 🌱 I’m currently improving my React skills <br/>
+ 🌱 I’m currently improving my TypesScript, JS and Vue skills! <br/>
  ⚡ Fun fact: The first message sent over the internet was "LOG" <br/>
  "LOGIN" was the original intended message but the entire system crashed! <br/>
 
