@@ -24,8 +24,9 @@
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=blue)
 ![Node.js](http://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=Nodejs&logoColor=green)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=blue)
-![MaterialUi](http://img.shields.io/badge/-MaterialUi-000000?style=for-the-badge&logo=MaterialUi)
+![MaterialUI](http://img.shields.io/badge/-MaterialUi-000000?style=for-the-badge&logo=MaterialUI)
 ![Cypress](http://img.shields.io/badge/-Cypress-000000?style=for-the-badge&logo=Cypress)
+![Typescript](http://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=Typescript)
 
   ---
 ⭐️ From [AliLop](https://github.com/alilop)
