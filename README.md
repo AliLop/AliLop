@@ -3,8 +3,8 @@
 <br/>
 <img align="right" alt="GIF"  width="360px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
  💜 Kind people are my kind of people <br/>
- 👯 After collaborating with a US team on a Vue Healthcare Web App Project I wish to keep improving and contributing<br/>
- 🌱 I’m currently improving my TypesScript, JS, Material Ui, NextJs and React skills! <br/>
+ 👯 After collaborating with a US team on a Vue Healthcare Web App Project I am currenlty collaborating with 2 large projects on React in Healthcare and Logistics as I wish to keep improving and contributing<br/>
+ 🌱 I’m currently improving my TypesScript, JS, Material Ui, cypress and React skills! <br/>
  ⚡ Fun fact: The first message sent over the internet was "LOG" <br/>
  "LOGIN" was the original intended message but the entire system crashed! <br/>
 
@@ -24,6 +24,8 @@
 ![React](http://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=blue)
 ![Node.js](http://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=Nodejs&logoColor=green)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=blue)
+![MaterialUi](http://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MaterialUi)
+![Cypress](http://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=Cypress)
 
   ---
 ⭐️ From [AliLop](https://github.com/alilop)
